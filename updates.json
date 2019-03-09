@@ -1,0 +1,31 @@
+{
+  "win32-x64-prod": {
+    "readme": "",
+    "update": "",
+    "install": "http://p5qj5jeir.bkt.clouddn.com/PKUNMUN Studio Setup 1.5.5.exe",
+    "version": "2019.3.5"
+  },
+  "darwin-x64-prod": {
+    "readme": "",
+    "update": "",
+    "install": "http://p5qj5jeir.bkt.clouddn.com/PKUNMUN Studio-1.5.5.dmg",
+    "version": "2019.3.5"
+  },
+  "win32-x64-aimun": {
+    "readme": "",
+    "update": "",
+    "install": "http://p5qj5jeir.bkt.clouddn.com/PKUNMUN Studio Setup 1.5.5.exe",
+    "version": "2019.3.5"
+  },
+  "darwin-x64-aimun": {
+    "readme": "",
+    "update": "",
+    "install": "http://p5qj5jeir.bkt.clouddn.com/PKUNMUN Studio-1.5.5.dmg",
+    "version": "2019.3.5"
+  },
+  "Linux-x64-prod": {
+    "readme": "1.修复部分bug\n2.优化性能\n3.细节调整\n",
+    "update": "https://github.com/zhbzhbzhbz/PKUNMUN_CONFERENCE/releases/download/mac.json",
+    "version": "1.0.0"
+  }
+}
