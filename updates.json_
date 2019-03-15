@@ -2,7 +2,7 @@
   "win32-x64-pkunmun": {
     "readme": "2019年大会最终版，请务必更新",
     "update": "",
-    "force": false,
+    "force": true,
     "install": "http://pn46tpwl0.bkt.clouddn.com/PKUNMUN-Studio-Setup-2019.3.13.exe",
     "version": "2019.3.13"
   },
